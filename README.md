@@ -1,6 +1,6 @@
 # Blogging website front-end
 
-## Navbar and footer
+
 
 ## Tools
 HTML and CSS
